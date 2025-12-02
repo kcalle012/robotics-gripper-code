@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import serial
 
-portName="/dev/cu.usbmodem1201"
+portName="/dev/cu.usbmodem11301"
 Aport= portName
 
 servo_value = 0
